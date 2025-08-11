@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Lesego Neo 👋</h1>
+<h1 align="center">Hi there, I'm Neo Mphahlele👋</h1>
 <h3 align="center">💻 Software Development | 🔒 Cybersecurity | 🤖 Artificial Intelligence</h3>
 
 <!-- Animated Divider -->
