@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me
-I'm a **Public Administration student** from South Africa, passionate about **technology, AI, and cybersecurity**.  
+I'm a **Digital Associate** from South Africa, passionate about **technology, AI, and cybersecurity**.  
 Over time, I’ve built skills through hands-on projects, certifications, and curiosity-driven learning.  
 Whether it’s **developing web applications**, **analyzing security incidents**, or **deploying AI models**, I love turning ideas into impactful solutions.  
 
@@ -83,5 +83,6 @@ Whether it’s **developing web applications**, **analyzing security incidents**
 
 <!-- Footer Animation -->
 <p align="center">
-  <img src="tinywow_f1545e9f61c857db24d5cbada699b01d_83217457.gif" alt="Drifting Car Animation" width="300" />
+  <img src="https://github.com/Neo-Cyphers/Neo-Cyphers/raw/main/tinywow_f1545e9f61c857db24d5cbada699b01d_83217457.gif" alt="Drifting Car Animation" width="300" />
 </p>
+
